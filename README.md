@@ -4,4 +4,4 @@
 ![xkcd](http://imgs.xkcd.com/comics/code_quality.png "Code Qualiity")
 
 
-http://imgs.xkcd.com/comics/code_quality.png
+http://xkcd.com/1513/
